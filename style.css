@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+width: 100%;
+min-height: 100vh;
+background:linear-gradient(135deg,#153677,#4e085f);
+padding: 10px;
+}
+.todo-app {
+    width: 100%;
+    max-width: 540px;
+    background: #4f3535;
+    margin: 100px auto 20px;
+    padding: 40px 30px 20px;
+    border-radius: 10px;
+}
+
+body {
+  background-color: rgb(34, 121, 150);
+}
+
